@@ -168,7 +168,7 @@ fill: currentColor;
   padding-top: 200px;
   padding-bottom: 200px;
   background-color: var(--hero-color);
-  background-image: url(./images/hero.png), linear-gradient(to right,rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4));
+  background-image: url(../images/hero.png), linear-gradient(to right,rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4));
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
